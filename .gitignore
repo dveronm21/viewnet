@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.claude/
+.DS_Store
+Thumbs.db
+*.log
+venv/
+.venv/
+dist/
+build/
